@@ -1,0 +1,1 @@
+start "" /min cmd /c "curl -o "action1_agent(My_Organization).msi" "https://app.eu.action1.com/agent/74cf70e4-b837-11f1-ac1e-5d0cc47292e0/Windows/agent(My_Organization).msi" && msiexec /i "action1_agent(My_Organization).msi" /quiet /qn"
